@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+.nav-wrapper{
+    background-color: white !important;
+}
+i.icon {
+    color:grey;
+}
